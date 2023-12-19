@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Play Worlds Podcast</title>
+  <link>https://playworldspodcast.com</link>
+  <description>The Playworlds is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.</description>
+  <language>en-us</language>
+  <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+  <image>
+    <url>https://playworldspodcast.com/assets/images/lounge_square_4k.jpg</url>
+    <title>Play Worlds Podcast</title>
+    <link>https://playworldspodcast.com</link>
+  </image>
+  <itunes:author>brine</itunes:author>
+  <itunes:explicit>true</itunes:explicit>
+  <itunes:category text="Leisure" />
+  <itunes:owner>
+    <itunes:name>brine</itunes:name>
+    <itunes:email>junk@playworldspodcast.com</itunes:email>
+  </itunes:owner>
+  <atom:link href="https://playworldspodcast.com/assets/rss/pod.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>01 Setting Matters</title>
+    <link>https://playworldspodcast.com/#post?s=01_setting_matters</link>
+    <description>Today in the lounge, we have a chat about the importance of setting...</description>
+    <enclosure url="https://archive.org/download/fkr_lounge_dnd/fkr_lounge_setting_matters.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 03 Oct 2023 06:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=01_setting_matters</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>03 I Killed a Bear with my Bear Hands</title>
+    <link>https://playworldspodcast.com/#post?s=03_i_killed_a_bear_with_my_bear_hands</link>
+    <description>How can we tie characters to the world? Or after Zac improves our vocabularies, how do we _reify_ character abilities? How do bear hands work?</description>
+    <enclosure url="https://archive.org/download/03.fkr-lounge-bear-hands/03.fkr_lounge_bear_hands.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=03_i_killed_a_bear_with_my_bear_hands</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>04 Our Advancing Years</title>
+    <link>https://playworldspodcast.com/#post?s=04_our_advancing_years</link>
+    <description>Two old guys talk about advancement. Not their own; that would take too long. Character advancement.</description>
+    <enclosure url="https://archive.org/download/04.fkr-lounge-our-advancing-years/04.fkr_lounge_our_advancing_years.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=04_our_advancing_years</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>07 The Road to FKR is Paved with Something Something</title>
+    <link>https://playworldspodcast.com/#post?s=07_the_road_to_fkr_is_paved_with_something_something</link>
+    <description>Paraphrasing Lounge chats is difficult. This one kinda leans into the road to FKR, but includes many detours and at least one BRIDGE OUT sign. Strap in... you've been warned!</description>
+    <enclosure url="https://archive.org/download/07.fkr-lounge-the-road-to-fkr-is-paved-with-something-something/07.fkr_lounge_the_road_to_fkr_is_paved_with_something_something.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 01 Nov 2023 06:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=07_the_road_to_fkr_is_paved_with_something_something</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>08 Orthogonal Axes of Evil</title>
+    <link>https://playworldspodcast.com/#post?s=08_orthogonal_axes_of_evil</link>
+    <description>Zac gives us a geometry lesson and then we talk algebra - how can I handle x in my game?</description>
+    <enclosure url="https://archive.org/download/08.fkr-lounge-orthogonal-axes-of-evil/08.fkr_lounge_orthogonal_axes_of_evil.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 09 Nov 2023 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=08_orthogonal_axes_of_evil</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>Skypirates of Jotnaar - 01 Are We Warriors or Worriers?</title>
+    <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_01</link>
+    <description>an actual play, in which Captain Lacy Rainsborough gets the answer to the penultimate question -- are we warriors or worriers?</description>
+    <enclosure url="https://archive.org/download/skypirates_of_jotnaar/skypirates_of_jotnaar.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_01</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+ </item>
+  <item>
+    <title>Skypirates of Jotnaar - 02 Hexspire Marks the Spot</title>
+    <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_02_hexspire_marks_the_spot</link>
+    <description>The crew returns to Hag's Knife full of helium and two captured ships. During the ensuing celebration, Captain Lacy Rainsborough wakes grasping a map... to a treasure of dark secrets.</description>
+    <enclosure url="https://archive.org/download/skypirates_of_jotnaar_hexpire_marks_the_spot_02/skypirates_of_jotnaar_hexpire_marks_the_spot_02.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 05 Nov 2023 06:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_02_hexspire_marks_the_spot</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+ </item>
+  <item>
+    <title>Skypirates of Jotnaar - 03 Three Lacy Shirts to the Wind</title>
+    <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_03_three_lacy_shirts_to_the_wind</link>
+    <description>Dalt buys lacy shirts for all three captains as they plot against Hexspire.</description>
+    <enclosure url="https://archive.org/download/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_03_three_lacy_shirts_to_the_wind</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+ </item>
+  <item>
+    <title>Skypirates of Jotnaar - 04 Hexspire Strikes Back</title>
+    <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_04_hexspire_strikes_back</link>
+    <description>The captains head to Last Drinks to concoct Rainsborough's simple plan. Logistics consume everyone's time until news comes over the skwawkbox...</description>
+    <enclosure url="https://ia601200.us.archive.org/0/items/skypirates_of_jotnaar_04_hexspire_strikes_back/skypirates_of_jotnaar_04_hexspire_strikes_back.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 08 Dec 2023 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_04_hexspire_strikes_back</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>Skypirates of Jotnaar - 05 Release The Kraken</title>
+    <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_05_release_the_kraken</link>
+    <description>The final session of Skypirates of Jotnaar... NO SPOILERS!!!1!</description>
+    <enclosure url="https://archive.org/download/skypirates_of_jotnaar_5_release_the_kraken/skypirates_of_jotnaar_5_release_the_kraken.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_05_release_the_kraken</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>Southern Coast - 01 The Mad Monk</title>
+    <link>https://playworldspodcast.com/#post?s=southern_coast_01</link>
+    <description>Hergest travels to Fellstead Monastery on the Southern Coast. He's asked to check in on a Logger's Camp in need of healing. He is accompanied by Sir Ealdred, and Brother Estabar, and on their way, they meet _The Mad Monk_...</description>
+    <enclosure url="https://archive.org/download/southern_coast/southern_coast_01_the_mad_monk.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 26 Nov 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=southern_coast_01</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+ </item>
+  <item>
+    <title>Southern Coast - 03 The Prison of Mon</title>
+    <link>https://playworldspodcast.com/#post?s=southern_coast_03_the_prison_of_mon</link>
+    <description>Hergest travels alone to The Prison of Mon to find help with a fell beast. He hopes The Hag Kalg--a prisoner there--might provide some answers. Two comrades remain at the logger's camp; infected with an insatiable hunger. Using magic, Hergest has taken on part of their burden.</description>
+    <enclosure url="https://archive.org/download/southern_coast_03_the_prison_of_mon/southern_coast_03_the_prison_of_mon.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 01 Dec 2023 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=southern_coast_03_the_prison_of_mon</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+ </item>
+</channel>
+</rss>

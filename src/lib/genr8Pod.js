@@ -5,7 +5,7 @@ import config from '../../package'
 const pod = {
   title: 'Play Worlds Podcast',
   url: 'https://playworldspodcast.com',
-  description: 'The Playworlds is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.',
+  description: 'The Play Worlds Podcast is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.',
   image: 'https://playworldspodcast.com/assets/images/lounge_square_4k.jpg',
   author: 'brine',
   explicit: 'true',

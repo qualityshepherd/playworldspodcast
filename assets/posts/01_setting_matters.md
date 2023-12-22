@@ -15,4 +15,4 @@ Today in the lounge, we have a chat about the importance of setting...
 - [Zac Bir](https://neverendingpretending.net)
 - [Wightbred](https://wightbred.itch.io/named)
 
-<audio controls src="https://archive.org/download/fkr_lounge_dnd/fkr_lounge_setting_matters.mp3"></audio>
+<audio controls src="https://archive.org/download/play_worlds_podcast/01.fkr_lounge_setting_matters.mp3"></audio>

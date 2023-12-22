@@ -10,6 +10,7 @@ const post = {
 
     // override webpage description with the page description
     if(post.meta.description) {
+      document.querySelector("meta[property='og:title']").setAttribute("content", post.meta.description)
       document.querySelector('meta[name="description"]').setAttribute("content", post.meta.description)
     }
 

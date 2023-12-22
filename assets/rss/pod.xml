@@ -5,7 +5,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Play Worlds Podcast</title>
   <link>https://playworldspodcast.com</link>
-  <description>The Playworlds is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.</description>
+  <description>The Play Worlds Podcast is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.</description>
   <language>en-us</language>
   <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
   <image>
@@ -64,6 +64,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/08.fkr-lounge-orthogonal-axes-of-evil/08.fkr_lounge_orthogonal_axes_of_evil.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Thu, 09 Nov 2023 07:00:00 GMT</pubDate>
     <guid>https://playworldspodcast.com/#post?s=08_orthogonal_axes_of_evil</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
+    <title>12 My Favorite Arthurian Movie Is Transformers 4</title>
+    <link>https://playworldspodcast.com/#post?s=12_my_favorite_arthurian_movie_is_transformers_4</link>
+    <description>Today on the lounge, we discuss zoom, stakes, hex crawling, and other sundries. As a special treat, Dante tells us why Transformers 4 is THE best Arthurian Movie of all time.</description>
+    <enclosure url="https://archive.org/download/play_worlds/12_my_favorite_arthurian_movie_is_transformers_4.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=12_my_favorite_arthurian_movie_is_transformers_4</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
  </item>
   <item>

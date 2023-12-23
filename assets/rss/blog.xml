@@ -5,8 +5,23 @@
   <link>https://playworldspodcast.com</link>
   <description>The Play Worlds Podcast is recorded live from voice chat on Play Worlds Discord server. Members discuss topics in and around TTRPG game-play. Like all conversations, these may contain half-baked thoughts and are apt to wander. Many episodes feature recordings of actual game-play.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 22 Dec 2023 16:54:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 23 Dec 2023 16:02:42 GMT</lastBuildDate>
   <atom:link href="https://playworldspodcast.com/assets/rss/blog.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
+    <title>Southern Coast - 04 A Better Door than a Window</title>
+    <link>https://playworldspodcast.com/#post?s=southern_coast_04_a_better_door_than_a_window</link>
+    <guid>https://playworldspodcast.com/#post?s=southern_coast_04_a_better_door_than_a_window</guid>
+    <description><![CDATA[<p><img src="assets/images/southern_coast/prison_of_mon.webp" alt="thumb" /></p>
+<p>An actual play using <em>Of Yarn and Bone</em>; recorded live on the Play Worlds Discord server.</p>
+<p>In our final episode of The Southern Coast, Hergest leaves the Prison of Mon and finds not one, but two familiar faces… or is it three?</p>
+<p><a href="assets/images/southern_coast/southern_coast.png">map</a></p>
+<ul>
+<li><a href="https://brine.dev">brine</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Hergest the Healer</strong> Herbalist Well-traveled, Old</li>
+</ul>
+<audio controls src="https://archive.org/download/southern_coast4/southern_coast_04_a_better_door_than_a_window.md.mp3"></audio>]]></description>
+  </item>
   <item>
     <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
     <title>12 My Favorite Arthurian Movie Is Transformers 4</title>
@@ -218,7 +233,7 @@ is an actual play using <a href="https://wightbred.itch.io/named">Named</a> tool
 <li><a href="https://neverendingpretending.net">Zac Bir</a></li>
 <li><a href="https://wightbred.itch.io/named">Wightbred</a></li>
 </ul>
-<audio controls src="https://archive.org/download/fkr_lounge_dnd/fkr_lounge_setting_matters.mp3"></audio>]]></description>
+<audio controls src="https://archive.org/download/play_worlds_podcast/01.fkr_lounge_setting_matters.mp3"></audio>]]></description>
   </item>
 </channel>
 </rss>

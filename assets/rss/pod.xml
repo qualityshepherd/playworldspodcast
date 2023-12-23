@@ -25,7 +25,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <title>01 Setting Matters</title>
     <link>https://playworldspodcast.com/#post?s=01_setting_matters</link>
     <description>Today in the lounge, we have a chat about the importance of setting...</description>
-    <enclosure url="https://archive.org/download/fkr_lounge_dnd/fkr_lounge_setting_matters.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="https://archive.org/download/play_worlds_podcast/01.fkr_lounge_setting_matters.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Tue, 03 Oct 2023 06:00:00 GMT</pubDate>
     <guid>https://playworldspodcast.com/#post?s=01_setting_matters</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
@@ -136,6 +136,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/southern_coast_03_the_prison_of_mon/southern_coast_03_the_prison_of_mon.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Fri, 01 Dec 2023 07:00:00 GMT</pubDate>
     <guid>https://playworldspodcast.com/#post?s=southern_coast_03_the_prison_of_mon</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+ </item>
+  <item>
+    <title>Southern Coast - 04 A Better Door than a Window</title>
+    <link>https://playworldspodcast.com/#post?s=southern_coast_04_a_better_door_than_a_window</link>
+    <description>In our final episode of The Southern Coast, Hergest leaves the Prison of Mon and finds not one, but two familiar faces... or is it three?</description>
+    <enclosure url="https://archive.org/download/southern_coast4/southern_coast_04_a_better_door_than_a_window.md.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=southern_coast_04_a_better_door_than_a_window</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
  </item>
 </channel>

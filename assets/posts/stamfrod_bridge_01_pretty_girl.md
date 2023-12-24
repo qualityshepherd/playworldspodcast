@@ -2,7 +2,7 @@
 title: Stamford Bridge - 01 Pretty Girl
 date: 2023-12-24
 tags: podcast, actual-play, named, stamford-bridge
-description: Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over... a battle of Harolds and Jens' Harold lost. What now?
+description: Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over. It was a battle of Harolds and Jens' Harold has fallen. What now?
 image: https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp
 ---
 
@@ -10,7 +10,7 @@ image: https://playworldspodcast.com/assets/images/stamford_bridge/stamford_brid
 
 an actual play using [Named toolset](https://wightbred.itch.io/named)
 
-Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over... a battle of Harolds and Jens' Harold lost. What now?
+Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over. It was a battle of Harolds and Jens' Harold has fallen. What now?
 
 - [Paulo](https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html)- GM
 - [brine](https://brine.dev) as **Jens Aaberg** Swordsman, Guide, Insightful

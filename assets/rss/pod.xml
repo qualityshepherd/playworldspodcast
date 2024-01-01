@@ -150,10 +150,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
   <item>
     <title>Stamford Bridge - 01 Pretty Girl</title>
     <link>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_pretty_girl</link>
-    <description>Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over... a battle of Harolds and Jens' Harold lost. What now?</description>
+    <description>Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over. It was a battle of Harolds and Jens' Harold has fallen. What now?</description>
     <enclosure url="https://archive.org/download/stamfrod_bridge_01/stamfrod_bridge_01_pretty_girl.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
     <guid>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_pretty_girl</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
+ </item>
+  <item>
+    <title>Stamford Bridge - 02 Rather Be Lucky Than Good</title>
+    <link>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</link>
+    <description>The final chapter in our Stamford Bridge adventure. Does Jens make it aboard one of twenty four ships that returned to Norway? NO SPOILERS!</description>
+    <enclosure url="https://archive.org/download/stamford_bridge/stamfrod_bridge_01_rather_be_lucky_than_good.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 01 Jan 2024 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
  </item>
 </channel>

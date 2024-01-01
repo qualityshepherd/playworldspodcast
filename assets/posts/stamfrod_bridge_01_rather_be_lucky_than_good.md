@@ -15,5 +15,5 @@ The final chapter in our Stamford Bridge adventure. Does Jens make it aboard one
 - [Paulo](https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html)- GM
 - [brine](https://brine.dev) as **Jens Aaberg** Swordsman, Guide, Insightful
 
-<audio controls src="https://archive.org/download/stamford_bridge/stamfrod_bridge_01_rather_be_lucky_than_good.mp3"></audio>
+<audio controls src="https://archive.org/download/stamford_bridge/stamfrod_bridge_02_rather_be_lucky_than_good.mp3"></audio>
 

@@ -76,6 +76,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
  </item>
   <item>
+    <title>One Shots - 01 Sharing the Knight Together</title>
+    <link>https://playworldspodcast.com/#post?s=one_shots_01_sharing_the_knight_together</link>
+    <description>Four brave knights share a night together in a gonzo library...</description>
+    <enclosure url="https://archive.org/download/one-shots_202401/one_shots_01_sharing_the_knight_together.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 07 Jan 2024 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=one_shots_01_sharing_the_knight_together</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
     <title>Skypirates of Jotnaar - 01 Are We Warriors or Worriers?</title>
     <link>https://playworldspodcast.com/#post?s=skypirates_of_jotnaar_01</link>
     <description>an actual play, in which Captain Lacy Rainsborough gets the answer to the penultimate question -- are we warriors or worriers?</description>
@@ -160,7 +169,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <title>Stamford Bridge - 02 Rather Be Lucky Than Good</title>
     <link>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</link>
     <description>The final chapter in our Stamford Bridge adventure. Does Jens make it aboard one of twenty four ships that returned to Norway? NO SPOILERS!</description>
-    <enclosure url="https://archive.org/download/stamford_bridge/stamfrod_bridge_01_rather_be_lucky_than_good.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="https://archive.org/download/stamford_bridge/stamfrod_bridge_02_rather_be_lucky_than_good.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Mon, 01 Jan 2024 07:00:00 GMT</pubDate>
     <guid>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />

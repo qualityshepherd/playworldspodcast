@@ -76,6 +76,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
  </item>
   <item>
+    <title>13 Lights Camera Faction</title>
+    <link>https://playworldspodcast.com/#post?s=13_lights_camera_faction</link>
+    <description>In which we talk about faction play and matrix games...</description>
+    <enclosure url="https://archive.org/download/play-worlds-podcast/play_worlds_podcast_13_lights_camera_faction.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 11 Jan 2024 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=13_lights_camera_faction</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
+ </item>
+  <item>
     <title>One Shots - 01 Sharing the Knight Together</title>
     <link>https://playworldspodcast.com/#post?s=one_shots_01_sharing_the_knight_together</link>
     <description>Four brave knights share a night together in a gonzo library...</description>

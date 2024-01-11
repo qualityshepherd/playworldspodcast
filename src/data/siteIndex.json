@@ -67,6 +67,17 @@
   },
   {
     "meta": {
+      "title": "13 Lights Camera Faction",
+      "date": "2024-1-11",
+      "tags": "podcast, lounge",
+      "description": "In which we talk about faction play and matrix games...",
+      "slug": "13_lights_camera_faction"
+    },
+    "markdown": "---\ntitle: 13 Lights Camera Faction\ndate: 2024-1-11\ntags: podcast, lounge\ndescription: In which we talk about faction play and matrix games...\n---\n\n![thumb](assets/images/lounge_square2.png)\n\nIn which we talk about faction play and matrix games...\n\n- [brine](https://brine.dev)\n- [Paulo](https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html)\n- [7th Outpost](https://tale-of-rat-and-snake.blogspot.com)\n- [Dante](https://thedolentcity.substack.com)\n- [Wightbred](https://wightbred.itch.io/named-toolkit)\n\n<audio controls src=\"https://archive.org/download/play-worlds-podcast/play_worlds_podcast_13_lights_camera_faction.mp3\"></audio>\n",
+    "html": "<p><img src=\"assets/images/lounge_square2.png\" alt=\"thumb\" /></p>\n<p>In which we talk about faction play and matrix games…</p>\n<ul>\n<li><a href=\"https://brine.dev\">brine</a></li>\n<li><a href=\"https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html\">Paulo</a></li>\n<li><a href=\"https://tale-of-rat-and-snake.blogspot.com\">7th Outpost</a></li>\n<li><a href=\"https://thedolentcity.substack.com\">Dante</a></li>\n<li><a href=\"https://wightbred.itch.io/named-toolkit\">Wightbred</a></li>\n</ul>\n<audio controls src=\"https://archive.org/download/play-worlds-podcast/play_worlds_podcast_13_lights_camera_faction.mp3\"></audio>"
+  },
+  {
+    "meta": {
       "title": "One Shots - 01 Sharing the Knight Together",
       "date": "2024-1-7",
       "tags": "podcast, actual-play, one-shots",

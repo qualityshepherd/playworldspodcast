@@ -78,6 +78,17 @@
   },
   {
     "meta": {
+      "title": "14 Just Do It Yourself",
+      "date": "2024-1-26",
+      "tags": "podcast, lounge",
+      "description": "Wightbred tells us why people are smart and Dante tells us why your fun is wrong. But ultimately, you should be like Mike and Just Do It (Yourself).",
+      "slug": "14"
+    },
+    "markdown": "---\ntitle: 14 Just Do It Yourself\ndate: 2024-1-26\ntags: podcast, lounge\ndescription: Wightbred tells us why people are smart and Dante tells us why your fun is wrong. But ultimately, you should be like Mike and Just Do It (Yourself).\n---\n\n![thumb](assets/images/lounge_square2.png)\n\nWightbred tells us why people are smart and Dante tells us why your fun is wrong. But ultimately, you should be like Mike and Just Do It (Yourself).\n\n- [brine](https://brine.dev)\n- [Wightbred](https://wightbred.itch.io/named-toolkit)\n- [Dante](https://thedolentcity.substack.com)\n- [Zac Bir](https://neverendingpretending.net)\n\n<audio controls src=\"https://ia601305.us.archive.org/20/items/play_worlds_podcast_14_just_do_it_yourself/play_worlds_podcast_14_just_do_it_yourself.mp3\"></audio>\n",
+    "html": "<p><img src=\"assets/images/lounge_square2.png\" alt=\"thumb\" /></p>\n<p>Wightbred tells us why people are smart and Dante tells us why your fun is wrong. But ultimately, you should be like Mike and Just Do It (Yourself).</p>\n<ul>\n<li><a href=\"https://brine.dev\">brine</a></li>\n<li><a href=\"https://wightbred.itch.io/named-toolkit\">Wightbred</a></li>\n<li><a href=\"https://thedolentcity.substack.com\">Dante</a></li>\n<li><a href=\"https://neverendingpretending.net\">Zac Bir</a></li>\n</ul>\n<audio controls src=\"https://ia601305.us.archive.org/20/items/play_worlds_podcast_14_just_do_it_yourself/play_worlds_podcast_14_just_do_it_yourself.mp3\"></audio>"
+  },
+  {
+    "meta": {
       "title": "One Shots - 01 Sharing the Knight Together",
       "date": "2024-1-7",
       "tags": "podcast, actual-play, one-shots",

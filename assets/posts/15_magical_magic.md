@@ -1,6 +1,6 @@
 ---
 title: 15 On Magical Magic
-date: 2024-1-28
+date: 2024-1-27
 tags: podcast, lounge
 description: We touch on collaborative worldbuilding (a topic for a future pod) but then brine and Dante dive deeper into magic systems that feel magical (or lack thereof). What makes magic magical? Discussion ensues with examples and ideas. Also, don't cancel Dante.
 ---

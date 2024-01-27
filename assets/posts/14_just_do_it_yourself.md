@@ -1,6 +1,6 @@
 ---
 title: 14 Just Do It Yourself
-date: 2024-1-26
+date: 2024-1-27
 tags: podcast, lounge
 description: Wightbred tells us why people are smart and Dante tells us why your fun is wrong. But ultimately, you should be like Mike and Just Do It (Yourself).
 ---

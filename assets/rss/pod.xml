@@ -201,5 +201,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <guid>https://playworldspodcast.com/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</guid>
     <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
  </item>
+  <item>
+    <title>Traveller Game - 00 Session Zero</title>
+    <link>https://playworldspodcast.com/#post?s=traveller</link>
+    <description>This is session 0 for a new Traveller/Named game. If you were ever curious about how the sausage gets made, you're in luck! And that's _TWO Ls_.</description>
+    <enclosure url="https://archive.org/download/travller/travller_game_00_session_zero.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 01 Feb 2024 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=traveller</guid>
+    <itunes:image href="assets/images/traveller/delta_queen.webp" />
+ </item>
 </channel>
 </rss>

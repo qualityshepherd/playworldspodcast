@@ -1,12 +1,12 @@
 ---
-title: Traveller Game - 00 Session Zero
+title: Butchers - 00 Session Zero
 date: 2024-2-1
 tags: podcast, lounge
+image: assets/images/butchers/delta_queen.webp
 description: This is session 0 for a new Traveller/Named game. If you were ever curious about "how the sausage gets made", you're in luck! And that's _TWO Ls_.
-image: assets/images/traveller/delta_queen.webp
 ---
 
-![thumb](assets/images/traveller/delta_queen.webp)
+![thumb](assets/images/butchers/delta_queen.webp)
 
 This is session 0 for a new Traveller/Named game. If you were ever curious about "how the sausage gets made", you're in luck! And that's _TWO Ls_.
 

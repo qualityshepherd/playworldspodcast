@@ -112,6 +112,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:image href="https://playworldspodcast.com/assets/images/lounge_square_4k.jpg" />
  </item>
   <item>
+    <title>A Quick Announcement</title>
+    <link>https://playworldspodcast.com/#post?s=a_quick_announcement</link>
+    <description>The lounge is moving (yes... _again_... sorry... no really) to a new home. This will be the last time I promise. New episodes will be released on the [World of Brine](worldof.brine.dev) website or find it on [your favorite podcast app](https://pod.link/1547081865).</description>
+    <enclosure url="assets/audio/a_quick_announcement.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 05 Mar 2024 07:00:00 GMT</pubDate>
+    <guid>https://playworldspodcast.com/#post?s=a_quick_announcement</guid>
+    <itunes:image href="https://playworldspodcast.com/assets/images/brine_square.png" />
+ </item>
+  <item>
     <title>Butchers - 00 Session Zero</title>
     <link>https://playworldspodcast.com/#post?s=butchers_00_session_zero</link>
     <description>This is session 0 for a new Traveller/Named game. If you were ever curious about how the sausage gets made, you're in luck! And that's _TWO Ls_.</description>
